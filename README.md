@@ -115,7 +115,7 @@ Bachelor of Software Engineering • 2023 – Present
 
 📧 Email: bichla12005@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/tranthibichla
+💼 LinkedIn: https://linkedin.com/in/bichla
 
 💻 GitHub: https://github.com/TranThiBichLa123
 
