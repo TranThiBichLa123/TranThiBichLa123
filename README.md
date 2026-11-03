@@ -85,21 +85,20 @@ I'm particularly interested in backend engineering, software architecture, datab
 
 ---
 
-
 ## GitHub Activity
 
 <p align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=TranThiBichLa123&show_icons=true&hide_border=true&theme=default"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=TranThiBichLa123&amp;show_icons=true&amp;hide_border=true&amp;theme=default"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranThiBichLa123&layout=compact&langs_count=6&hide_border=true&theme=default"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TranThiBichLa123&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default"
     alt="Most Used Languages"
   />
 </p>
