@@ -85,18 +85,23 @@ I'm particularly interested in backend engineering, software architecture, datab
 
 ---
 
+
 ## GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TranThiBichLa123&show_icons=true" />
+  <img
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=TranThiBichLa123&show_icons=true&hide_border=true&theme=default"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranThiBichLa123&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TranThiBichLa123" />
+  <img
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranThiBichLa123&layout=compact&langs_count=6&hide_border=true&theme=default"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
