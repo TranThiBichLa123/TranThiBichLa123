@@ -1,11 +1,11 @@
 <h1 align="center">Tran Thi Bich La</h1>
 
 <p align="center">
-  Software Engineering Student @ UIT - VNUHCM
+  <strong>Software Engineering Student @ UIT - VNUHCM</strong>
 </p>
 
 <p align="center">
-  Backend Development • Full-stack Development • Software Architecture
+  <strong>Backend Development • Full-stack Development • Software Architecture</strong>
 </p>
 
 <p align="center">
